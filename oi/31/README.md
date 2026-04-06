@@ -18,3 +18,5 @@ The problem is solved using a **Greedy Approach** combined with efficient data s
 ```bash
 g++ -O3 lic.cpp -o lic
 ./lic < input_file
+
+"README assisted by AI for clarity and professional formatting"
