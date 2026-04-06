@@ -57,4 +57,3 @@ for i in range(n2):
         l+=1    
 
 print(T)
-
