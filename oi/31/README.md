@@ -1,3 +1,4 @@
+Markdown
 # Task: Liczniki (Meters) - XXXI OI Stage II
 
 ## 📝 Problem Description
@@ -18,5 +19,4 @@ The problem is solved using a **Greedy Approach** combined with efficient data s
 ```bash
 g++ -O3 lic.cpp -o lic
 ./lic < input_file
-
 Note: This README and its formatting were assisted by AI to ensure clarity and professional presentation of the technical logic.
