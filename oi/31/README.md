@@ -19,4 +19,4 @@ The problem is solved using a **Greedy Approach** combined with efficient data s
 g++ -O3 lic.cpp -o lic
 ./lic < input_file
 
-"README assisted by AI for clarity and professional formatting"
+Note: This README and its formatting were assisted by AI to ensure clarity and professional presentation of the technical logic.
