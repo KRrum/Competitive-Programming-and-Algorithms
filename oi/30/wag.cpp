@@ -6,7 +6,7 @@ using namespace std;
  * Score: 100/100 (Verified on Szkopuł) Problem Link: https://szkopul.edu.pl/problemset/problem/UtJx9fM6UT2oxXFenSPjiz5C/site/
  * Technique: dynamic programic + divide and conquer
  * time complexity: O(dlogn)
- */
+ */ 
 int a;
 int b;
 unsigned long long maxx(long long c, long long d)
